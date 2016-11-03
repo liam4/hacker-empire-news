@@ -1,0 +1,22 @@
+{
+  "name": "hacker-empire-news",
+  "homepage": "https://liam4.github.io/hacker-empire-news",
+  "authors": [
+    "liam4 <towerofnix@gmail.com>"
+  ],
+  "description": "I *star* DON'T *star* CARE *star* ABOUT *star* BOWER",
+  "main": "index.html",
+  "keywords": [
+    "ur",
+    "face"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
