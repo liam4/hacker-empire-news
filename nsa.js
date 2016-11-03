@@ -35,8 +35,9 @@ function handleNewsItem(item) {
   a.appendChild(document.createTextNode(title))
   p.appendChild(a)
 
-  document.body.appendChild(p)
-  document.body.appendChild(document.createElement('hr'))
+  const body = document.getElementById('content')
+  body.appendChild(document.createElement('hr'))
+  body.appendChild(p)
 
   if (Math.round(Math.random())) {
     document.title = title

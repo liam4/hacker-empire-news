@@ -1,0 +1,34 @@
+body, html {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: Verdaina, Geneva, sans-serif;
+  font-size: 10pt;
+}
+
+center > div {
+  text-align: left;
+  width: 85%;
+  background-color: #f6f6ef;
+  margin-top: 8px;
+}
+
+p {
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+hr {
+  margin: 8px 0;
+}
+
+#header {
+  background-color: #ff6600;
+  font-weight: 800;
+}
+
+#header, #content {
+  padding: 2px 8px;
+}
